@@ -112,6 +112,4 @@ AI Flow Wallet employs an intent-based architecture with account abstraction to 
 
 
 
-## Resources
-- **Logo:** [AI Flow Logo]()
-- **Presentation:** [AI Flow Presentation]()
+
