@@ -13,6 +13,25 @@ AI Flow Wallet is an advanced crypto wallet designed with intent-based architect
 - **Cross-Chain Compatibility:** Instant transfers between OPBNB and BSC testnets.
 - **User-Centric Design:** Real-time insights and personalized recommendations from the AI chatbot.
 
+## AI Flow Wallet Architecture
+
+### High-Level Architecture and Detailed Components
+
+![AI Flow Wallet Architecture](https://github.com/samarabdelhameed/pics/blob/main/di2.svg)
+
+[ [View fullscreen](https://github.com/samarabdelhameed/pics/blob/main/di2.svg) 
+
+## AI Flow Wallet pages
+
+
+
+![AI Flow Wallet Architecture](https://github.com/samarabdelhameed/pics/blob/main/dd.png
+)
+
+
+
+
+
 ## Problem Statement
 In the current digital finance ecosystem, users face complexities in managing transactions, high gas fees, and security risks associated with private keys. Cross-chain transfers are often cumbersome, requiring multiple steps and higher transaction costs.
 
