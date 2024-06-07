@@ -3,6 +3,11 @@
 ## Vision
 To revolutionize the digital finance landscape by leveraging cutting-edge artificial intelligence and intent-based architecture, providing users with an unparalleled level of security, efficiency, and seamless transaction experiences across multiple blockchain networks.
 
+## AI Flow Wallet pages
+
+![AI Flow Wallet home page](https://github.com/samarabdelhameed/pics/blob/main/AI_Flow_Logo.png
+)
+
 ## Description
 AI Flow Wallet is an advanced crypto wallet designed with intent-based architecture and account abstraction, utilizing artificial intelligence to transform user interactions with digital assets.
 
@@ -23,11 +28,7 @@ AI Flow Wallet is an advanced crypto wallet designed with intent-based architect
 
 ## AI Flow Wallet pages
 
-
-
-![AI Flow Wallet Architecture](https://github.com/samarabdelhameed/pics/blob/main/dd.png
-)
-
+![AI Flow Wallet home page](https://github.com/samarabdelhameed/pics/blob/main/dd.png)
 
 
 
